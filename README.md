@@ -1,6 +1,11 @@
 # Emoji Filter Lab
 
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=flat-square)](http://selfdotsend.com/emoji-filterlab/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-blue?style=flat-square&logo=github)](http://selfdotsend.com/emoji-filterlab/)
+
 A CSS filter playground to tint and customize emojis in real-time.
+
+🔗 **[Try it live!](http://selfdotsend.com/emoji-filterlab/)**
 
 ## Features
 
@@ -14,13 +19,14 @@ A CSS filter playground to tint and customize emojis in real-time.
 
 ## Usage
 
-Simply open `index.html` in a web browser. No build process or dependencies required!
+Visit **[selfdotsend.com/emoji-filterlab](http://selfdotsend.com/emoji-filterlab/)** to use the tool online!
 
-### Quick Start
+### Local Development
 
 ```bash
-# Navigate to the directory
-cd ~/Development/emoji-filterlab
+# Clone the repository
+git clone https://github.com/metacritical/emoji-filterlab.git
+cd emoji-filterlab
 
 # Open in browser (macOS)
 open index.html
